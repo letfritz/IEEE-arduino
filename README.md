@@ -2,17 +2,17 @@
 
 <div align="center"><br/>
   <div style="display: inline-block;">
-    <img align="center" alt="stars" src="https://img.shields.io/github/stars/letfritz/CPVT3N.svg">
-    <img align="center" alt="watchers" src="https://img.shields.io/github/watchers/letfritz/CPVT3N.svg">
-    <img align="center" alt="forks" src="https://img.shields.io/github/forks/letfritz/CPVT3N.svg">
+    <img align="center" alt="stars" src="https://img.shields.io/github/stars/letfritz/IEEE-arduino">
+    <img align="center" alt="watchers" src="https://img.shields.io/github/watchers/letfritz/IEEE-arduino">
+    <img align="center" alt="forks" src="https://img.shields.io/github/forks/letfritz/IEEE-arduino">
   </div>
   <div style="display: inline-block;">
-    <img align="center" alt="downloads" src="https://img.shields.io/github/downloads/letfritz/CPVT3N/total.svg">
-    <img align="center" alt="issues" src="https://img.shields.io/github/issues/letfritz/CPVT3N/total.svg">
-    <img align="center" alt="issues-closed" src="https://img.shields.io/github/issues-closed/letfritz/CPVT3N/total.svg">
-    <img align="center" alt="issues-pr" src="https://img.shields.io/github/issues-pr/letfritz/CPVT3N/total.svg">
-    <img align="center" alt="issues-pr-closed" src="https://img.shields.io/github/issues-pr-closed/letfritz/CPVT3N/total.svg">
-    <img align="center" alt="issues-pr-closed" src="https://img.shields.io/github/license/letfritz/CPVT3N.svg">
+    <img align="center" alt="downloads" src="https://img.shields.io/github/downloads/letfritz/IEEE-arduino/total.svg">
+    <img align="center" alt="issues" src="https://img.shields.io/github/issues/letfritz/IEEE-arduino/total.svg">
+    <img align="center" alt="issues-closed" src="https://img.shields.io/github/issues-closed/letfritz/IEEE-arduino/total.svg">
+    <img align="center" alt="issues-pr" src="https://img.shields.io/github/issues-pr/letfritz/IEEE-arduino/total.svg">
+    <img align="center" alt="issues-pr-closed" src="https://img.shields.io/github/issues-pr-closed/letfritz/IEEE-arduino/total.svg">
+    <img align="center" alt="issues-pr-closed" src="https://img.shields.io/github/license/letfritz/IEEE-arduino">
   </div>
 </div><br/>
 
