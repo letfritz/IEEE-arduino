@@ -2,9 +2,9 @@
 
 <div align="center"><br/>
   <div style="display: inline-block;">
-    <img align="center" alt="stars" src="https://img.shields.io/github/stars/letfritz/IEEE-arduino">
-    <img align="center" alt="watchers" src="https://img.shields.io/github/watchers/letfritz/IEEE-arduino">
-    <img align="center" alt="forks" src="https://img.shields.io/github/forks/letfritz/IEEE-arduino">
+    <img align="center" alt="stars" src="https://img.shields.io/github/stars/letfritz/IEEE-arduino.svg">
+    <img align="center" alt="watchers" src="https://img.shields.io/github/watchers/letfritz/IEEE-arduino.svg">
+    <img align="center" alt="forks" src="https://img.shields.io/github/forks/letfritz/IEEE-arduino.svg">
   </div>
   <div style="display: inline-block;">
     <img align="center" alt="downloads" src="https://img.shields.io/github/downloads/letfritz/IEEE-arduino/total.svg">
